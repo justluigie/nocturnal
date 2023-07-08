@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nocturnal/static/css/main.653c9023.css",
-    "main.js": "/nocturnal/static/js/main.5d2a8573.js",
+    "main.js": "/nocturnal/static/js/main.498c825f.js",
     "static/media/logo.svg": "/nocturnal/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/nocturnal/index.html",
     "main.653c9023.css.map": "/nocturnal/static/css/main.653c9023.css.map",
-    "main.5d2a8573.js.map": "/nocturnal/static/js/main.5d2a8573.js.map"
+    "main.498c825f.js.map": "/nocturnal/static/js/main.498c825f.js.map"
   },
   "entrypoints": [
     "static/css/main.653c9023.css",
-    "static/js/main.5d2a8573.js"
+    "static/js/main.498c825f.js"
   ]
 }
